@@ -3,7 +3,7 @@
 Repositório criado para praticar conceitos básicos e intermediários de **Python**, seguindo o curso do Gustavo Guanabara. Contém diversos exercícios que ajudam a consolidar lógica de programação e sintaxe da linguagem.
 
 ## Tecnologias
-- Python 3.x
+- Python 3.13
 
 ## Conteúdo
 - Variáveis e tipos de dados
